@@ -35,6 +35,7 @@ int main() {
     push(&head, 40); 
     push(&head, 50); 
     push(&head, 75);
+    push(&head, 45);
   
     // Sample Loop
     head->next->next->next = head; 
